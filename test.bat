@@ -1,0 +1,3 @@
+date /t
+whoami
+pause
